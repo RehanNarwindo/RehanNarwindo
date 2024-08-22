@@ -40,8 +40,8 @@ Welcome to my GitHub profile! I'm a passionate Fullstack Developer with a love f
 
 ## 🔗 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/rehan-narwindo)
+- 💼 [LinkedIn](www.linkedin.com/in/rehan-aji-narwindo-a7b64a2b0)
 - 🌐 [Portfolio Website](https://yourportfolio.com) (optional if you have one)
-- ✉️ [Email](mailto:rehan@example.com)
+- ✉️ [Email](mailto:rehanajinarwindo2112@gmail.com)
 
 Feel free to check out my repositories, and let's build something amazing together!
