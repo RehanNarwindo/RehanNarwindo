@@ -1,15 +1,15 @@
 # Hi there, I'm Rehan Aji Narwindo! 👋
 
-Welcome to my GitHub profile! I'm a passionate Fullstack Developer with a love for solving problems and building applications that make a difference. Here's a little bit about me:
+Welcome to my GitHub profile! I'm a passionate **Fullstack Developer** with a strong interest in building scalable, secure, and production-ready applications—especially using **microservices architecture**.
 
 ---
 
 ## 🌟 About Me
 
-- 🔭 I’m currently working on [nano-jarvis](https://github.com/RehanNarwindo/nano-jarvis), a project that integrates Ollama and Groq for LLMs.
-- 🌱 I’m constantly learning and improving my skills in **ReactJS**, **Next.js**, **React Native**, **PostgreSQL**, and **MongoDB**.
-- 👯 I’m looking to collaborate on open-source projects that align with my interests in AI, web development, and mobile applications.
-- ⚡ Fun fact: I completed a fullstack JavaScript course at Hacktiv8, and I’m always up for a coding challenge!
+- 🌱 Continuously learning and improving my skills in **ReactJS**, **Next.js**, **React Native**, **PostgreSQL**, and **MongoDB**
+- 🧠 Strong interest in backend systems, system design, and performance optimization
+- 👯 Open to collaborating on open-source or real-world inspired projects
+- ⚡ Fun fact: I completed a **Fullstack JavaScript program at Hacktiv8**
 
 ---
 
